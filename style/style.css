@@ -1,0 +1,13 @@
+
+    .var_draw{
+        display: flex;
+        flex-direction: row;
+    }
+    .var_draw div{
+        margin-left: 1%;
+    }
+    .button
+    {
+        display: flex;
+        background-color: orange;
+    }
